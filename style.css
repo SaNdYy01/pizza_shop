@@ -2,10 +2,18 @@
 
 .div1{
     background-color: rgb(235, 254, 254);
-
+    border: 50px;
+    text-align: center;
 }
-.div2{
+ .div2{
     border: 3px;
     padding: 3px;
+    text-align:left;
+    background-color: rgb(243, 240, 240);
 }
+.div3{
+    border :10px;
+    margin: 2px;
+    text-align: right;
+} 
 
